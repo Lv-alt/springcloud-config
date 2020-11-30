@@ -1,1 +1,2 @@
-Hello 测试添加内容，config-dev.yml文件
+config:
+  info: "master branch , springcloud-config/config-dev.yml version = 1"
